@@ -30,6 +30,5 @@ src/App.tsx
 npm run dev
 I've created a comprehensive speech recognition system for command-based device control. The system features a modern dashboard with real-time speech recognition, device status monitoring, and command history tracking. The interface uses the Web Speech API to capture voice commands and processes them to control various simulated smart home devices including lights, thermostats, security systems, and power controls.
 The system includes visual audio feedback during speech recognition, a clean device status panel showing real-time states, and maintains a history of all processed commands. While this demo simulates device control in the browser, the architecture is designed to easily integrate with actual embedded boards through IoT protocols like MQTT, WebSockets, or REST APIs.
-
 #OUTPUT
 <img width="907" height="483" alt="Image" src="https://github.com/user-attachments/assets/d49ee257-b88b-4f43-90b7-56ba29cdd0bd" />
